@@ -1,4 +1,6 @@
-# Final_Project_2021_Python
-LAPD publishes the calls for service, this dataframe allows someone to find out what areas in Los angeles have a higher call volume. Los Angeles county is very big and if you are planning on moving into a different city then it would be very informational to look at this type of data when making a big relocation decision, as it can impact your everyday life. 
+
+**LAPD calls for service
+**
+Thinking about relocating and/or purchasing a home? If you were planning to move into a different city then it would be very perceptive to look at data when making a big relocation decision, as it may affect your everyday life. Luckily, the LAPD publishes the calls they service throughout Los Angeles County. This data frame below allows anyone to find out what areas in Los Angeles County have a higher call volume since it is a very big city.
 
 
